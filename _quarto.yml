@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "website"
+  title: "LVA"
   navbar:
     left:
-      - href: index.qmd
+      - href: pages/index.qmd
         text: Home
-      - about.qmd
+      - pages/about.qmd
+      - pages/projects.qmd
 
 format:
   html:

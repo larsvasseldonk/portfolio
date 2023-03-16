@@ -1,0 +1,20 @@
+---
+title: "Lars van Asseldonk"
+---
+
+Hi, welcome to my personal website. My name is Lars and I am a data enthusiast living in Amsterdam. Let me introduce myself briefly.
+
+# This is me
+
+## Interests
+
+Teamsports (_mostly footbal but also tennis, squash, padddel_), Italian-food, DIY projecs, and tech.
+
+### Background
+
+- Education:
+  - 2015-2019 BASc Business IT & Management @ Avans University of Applied Sciences Breda
+  - 2019-2021 MSc Business Informatics with specialisation in Data Science @ Utrecht University
+- Experience:
+  - 2021-2022 RPA developer & business consultant @ NS
+  - 2022-now Data Scientist @ NS

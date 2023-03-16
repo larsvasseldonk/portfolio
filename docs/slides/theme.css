@@ -1,0 +1,13 @@
+
+.reveal .slides {
+    color: #838390;
+    font-size: 75%;
+}
+
+.reveal h1 {color: #FFC917;}
+.reveal h2 {color: #003082;}
+.reveal h3 {color: #003082;}
+.reveal h4 {color: #003082;}
+
+.reveal strong,
+.reveal b {font-weight: bold; color: #FFC917;}

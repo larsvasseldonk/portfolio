@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "slides/portfolio.html#wie-ben-ik",
     "href": "slides/portfolio.html#wie-ben-ik",
     "title": "Portfolio Lars",
@@ -49,11 +42,11 @@
     "text": "Data Scientist\nAls data scientist bij SCUBA help ik NS, en specifiek het domein NS stations, een data-gedreven organisatie te maken.\nMeegewerkt aan twee producten:\n\nOV-fiets beschikbaarheid voorspellingen 48 uur vooruit: wat is de kans dat er een fiets beschikbaar is?\nWat is de behoefte van OV-fiets 20 tot 30 jaar vooruitkijkend?\n\nOntwikkelmomenten:\n\nKickstart AI challenge: een samenwerking tussen NS, KLM, ING en Ahold Delhaize om AI te stimuleren en samen te werken aan maatschappelijk relevante onderwerpen.\nOrganiseren samenwerkingsochtend AA: zorgen voor meer verbinding in de gemeenschap.\n\nBuitenkaNS: reizigers van de huishoudsbeurs begeleiden."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "About this site"
+    "text": "Projects."
   },
   {
     "objectID": "pages/index.html",
@@ -61,6 +54,13 @@
     "title": "Lars van Asseldonk",
     "section": "",
     "text": "Hi, welcome to my personal website. My name is Lars and I am a data enthusiast living in Amsterdam. Let me introduce myself briefly."
+  },
+  {
+    "objectID": "pages/index.html#interests",
+    "href": "pages/index.html#interests",
+    "title": "Lars van Asseldonk",
+    "section": "Interests",
+    "text": "Interests\nTeamsports (mostly footbal but also tennis, squash, padddel), Italian-food, DIY projecs, and tech.\n\nBackground\n\nEducation:\n\n2015-2019 BASc Business IT & Management @ Avans University of Applied Sciences Breda\n2019-2021 MSc Business Informatics with specialisation in Data Science @ Utrecht University\n\nExperience:\n\n2021-2022 RPA developer & business consultant @ NS\n2022-now Data Scientist @ NS"
   },
   {
     "objectID": "pages/about.html",
@@ -75,26 +75,5 @@
     "title": "About",
     "section": "Data Scientist @ NS",
     "text": "Data Scientist @ NS"
-  },
-  {
-    "objectID": "pages/projects.html",
-    "href": "pages/projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Projects."
-  },
-  {
-    "objectID": "pages/index.html#education",
-    "href": "pages/index.html#education",
-    "title": "Lars van Asseldonk",
-    "section": "Education",
-    "text": "Education"
-  },
-  {
-    "objectID": "pages/index.html#interests",
-    "href": "pages/index.html#interests",
-    "title": "Lars van Asseldonk",
-    "section": "Interests",
-    "text": "Interests\nTeamsports (mostly footbal but also tennis, squash, padddel), Italian-food, DIY projecs, and tech.\n\nBackground\n\nEducation:\n\n2015-2019 BASc Business IT & Management @ Avans University of Applied Sciences Breda\n2019-2021 MSc Business Informatics with specialisation in Data Science @ Utrecht University\n\nExperience:\n\n2021-2022 RPA developer & business consultant @ NS\n2022-now Data Scientist @ NS"
   }
 ]

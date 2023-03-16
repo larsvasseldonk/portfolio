@@ -75,5 +75,19 @@
     "title": "About",
     "section": "Data Scientist @ NS",
     "text": "Data Scientist @ NS"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lars van Asseldonk",
+    "section": "",
+    "text": "Hi, welcome to my personal website. My name is Lars and I am a data enthusiast living in Amsterdam. Let me introduce myself briefly."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Lars van Asseldonk",
+    "section": "Interests",
+    "text": "Interests\n\nBackground\n\nEducation:\n\n2015-2019 BASc Business IT & Management @ Avans University of Applied Sciences Breda\n2019-2021 MSc Business Informatics with specialisation in Data Science @ Utrecht University\n\nExperience:\n\n2021-2022 RPA developer & business consultant @ NS\n2022-now Data Scientist @ NS"
   }
 ]

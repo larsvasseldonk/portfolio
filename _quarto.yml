@@ -6,7 +6,7 @@ website:
   title: "LVA"
   navbar:
     left:
-      - href: pages/index.qmd
+      - href: index.qmd
         text: Home
       - pages/about.qmd
       - pages/projects.qmd

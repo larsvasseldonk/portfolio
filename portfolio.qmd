@@ -1,0 +1,94 @@
+---
+title: "Portfolio Lars"
+author: "Lars van Asseldonk - IT Trainee bij NS"
+date: today
+format: 
+  revealjs:
+    css: theme.css
+    theme: simple
+
+---
+
+## Wie ben ik
+
+25-jarige Brabantse Amsterdammer
+
+### Interesses
+
+Teamsporten (_vooral (zaal)voetbal maar ook tennis, squash, padddel_), reizen naar Italie, DIY projecten, en tech.
+
+### Achtergrond
+
+- Educatie:
+  - 2015-2019 BASc Business IT & Management @ Avans Breda
+  - 2019-2021 MSc Business Informatics met specialisatie in Data Science @ Utrecht Universiteit
+- Ervaringen:
+  - 2021-2022 RPA ontwikkelaar & business consultant @ NS
+  - 2022-heden Data Scientist @ NS
+
+## Agenda
+
+- Terugblik op de afgelopen twee jaar
+- Nog even vooruitkijken: wat nu?
+
+# Het traineeship in een vogelvlucht
+
+# Het eerste jaar: RPA ontwikkelaar
+
+## RPA ontwikkelaar
+
+Als RPA ontwikkelaar was ik verantwoordelijk voor het **automatiseren van tijdrovende, repeterende computergestuurde bedrijfsprocessen** die veelal handmatig worden uitgevoerd door collega's. 
+
+- Nabootsen van menselijke handelingen
+- Focus terugleggen op de kerntaken
+
+Projecten onder mijn verantwoordelijkheid:
+
+- Traxx protocollen automatisch archiveren
+- Geautomatiseerd brieven toevoegen aan het personeelsdossier
+- Documenten uit twee oude SAP systemen archiveren
+
+Met alle projecten samen heb ik NS een geschatte besparing van XX euro opgeleverd!
+
+Maar...
+
+
+## Wat heb geleerd tijdens mijn eerste jaar
+
+- Breed de NS-organisatie leren kennen
+    - Met verschillende bedrijfsonderdelen samengewerkt: MBN, HR, NS techniek, Staven
+    - Koffie drinken met IT experts uit verschillen hoeken
+    - Business opdracht bij de Julia's
+    - Kijkjes in de keuken: treinmodernisering, onderhoudsbedrijf Leidschedam, hoofdconductrice, OCCR, winkelmanager Kiosk, en rondleiding op Utrecht Centraal
+- Specialistische kennis op het gebied van automatisering en procesanalyse verbeteren
+    - Twee online trainingen gevolgd
+    - Promoten van RPA binnen NS door workshop en aanwezigheid op de innovatieweek en clustermarkt
+    - Procesmodellerings technieken
+    - Verbreden door te kijken naar andere tools zoals PowerAutomate
+- Projectmanagement vaardigheden verbeteren
+    - Experimenteren met stakeholdermanagement door volledige verantwoordelijkheid
+
+
+## Wat ontbrak er in de functie?
+
+- Het samen resultaat halen
+
+# Door naar het tweede jaar: Data Scientist bij SCUBA
+
+## Data Scientist
+
+Als data scientist bij SCUBA help ik NS, en specifiek het domein NS stations, een data-gedreven organisatie te maken. 
+
+Meegewerkt aan twee producten:
+
+- OV-fiets beschikbaarheid voorspellingen 48 uur vooruit: wat is de kans dat er een fiets beschikbaar is?
+- Wat is de behoefte van OV-fiets 20 tot 30 jaar vooruitkijkend?
+
+Ontwikkelmomenten:
+
+- Kickstart AI challenge: een samenwerking tussen NS, KLM, ING en Ahold Delhaize om AI te stimuleren en samen te werken aan maatschappelijk relevante onderwerpen.
+- Organiseren samenwerkingsochtend AA: zorgen voor meer verbinding in de gemeenschap.
+- 
+
+- BuitenkaNS: reizigers van de huishoudsbeurs begeleiden.
+

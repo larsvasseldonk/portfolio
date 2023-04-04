@@ -1,7 +1,9 @@
 ---
-title: "Portfolio Lars"
-author: "Lars van Asseldonk - IT Trainee bij NS"
+title: "Portfolio Lars: Mijn reis door NS"
+author: "Lars van Asseldonk - IT Trainee Focus 11"
 date: today
+toc: true
+number-sections: true
 format: 
   revealjs:
     css: theme.css
@@ -9,7 +11,23 @@ format:
 
 ---
 
-## Wie ben ik
+# Introductie
+
+<!-- Korte introductie over het portfolio. Wie ben ik, waarom heb ik dit geschreven, en voor wie is het bedoelt. -->
+
+Ruim anderhalf jaar geleden kreeg ik het nieuws dat de NS mij een positie wilde aanbieden als IT trainee: een kans die ik met beide handen aangreep. Het IT traineeship bij de NS is een tweejarig programma waar je breed kennis maakt IT en Data door twee functie te vervullen. Bovendien hecht het programma veel waarde aan persoonlijke ontwikkeling. In het kader van ontwikkeling is ook dit portfolio geschreven waarbij teruggekeken en gereflecteerd wordt op mijn afgelopen twee jaar bij de NS. Hoe heb ik mezelf ontwikkeld in mijn eerste en tweede jaar en welke lessen neem ik mee naar de toekomst zijn vragen waar in dit portfolio antwoord op wordt gegeven.
+
+# Nulmeting: hoe ik binnenkwam bij NS
+
+<!-- Vertel hoe ik binnekwam bij NS. Als een pas afgestudeerde student zonder werkervaring. Dit is belangrijk om mijn ontwikkeling te kunnen meten. -->
+
+Als vers afgestudeerde Business Informatics student met een focus op data wetenschappen kwam ik binnen bij NS. Ik had wat werkervaring in kleinere IT organisaties maar nog nooit eerder in een organisatie als NS gewerkt. Ik heb de keuze voor NS gemaakt omdat het een organisatie is die midden in de maatschappij staat. Aangezien IT en Data vaak abstracte begrippen zijn, hoopte ik hierdoor toch wat dichter bij de werkelijkheid te kunnen staan. Het traineeship sprak me aan vanwege de sterek focus op persoonlijke ontwikkeling maar ook om te ontdekken waar mijn krachten liggen en waar ik energie van krijg om zo beter richting te kunnen geven aan mijn carriere. 
+
+Als persoon kwam ik binnen zonder ervaring met het werken in een grote organisatie. 
+
+
+
+<!-- ## Wie ben ik
 
 25-jarige Brabantse Amsterdammer
 
@@ -24,18 +42,9 @@ Teamsporten (_vooral (zaal)voetbal maar ook tennis, squash, padddel_), reizen na
   - 2019-2021 MSc Business Informatics met specialisatie in Data Science @ Utrecht Universiteit
 - Ervaringen:
   - 2021-2022 RPA ontwikkelaar & business consultant @ NS
-  - 2022-heden Data Scientist @ NS
+  - 2022-heden Data Scientist @ NS -->
 
-## Agenda
-
-- Terugblik op de afgelopen twee jaar
-- Nog even vooruitkijken: wat nu?
-
-# Het traineeship in een vogelvlucht
-
-# Het eerste jaar: RPA ontwikkelaar
-
-## RPA ontwikkelaar
+# Het eerste jaar: RPA-ontwikkelaar bij Staven
 
 Als RPA ontwikkelaar was ik verantwoordelijk voor het **automatiseren van tijdrovende, repeterende computergestuurde bedrijfsprocessen** die veelal handmatig worden uitgevoerd door collega's. 
 
@@ -52,7 +61,6 @@ Met alle projecten samen heb ik NS een geschatte besparing van XX euro opgelever
 
 Maar...
 
-
 ## Wat heb geleerd tijdens mijn eerste jaar
 
 - Breed de NS-organisatie leren kennen
@@ -68,10 +76,11 @@ Maar...
 - Projectmanagement vaardigheden verbeteren
     - Experimenteren met stakeholdermanagement door volledige verantwoordelijkheid
 
-
 ## Wat ontbrak er in de functie?
 
 - Het samen resultaat halen
+
+# Het tussenstation: een korte reflectie
 
 # Door naar het tweede jaar: Data Scientist bij SCUBA
 
@@ -88,7 +97,148 @@ Ontwikkelmomenten:
 
 - Kickstart AI challenge: een samenwerking tussen NS, KLM, ING en Ahold Delhaize om AI te stimuleren en samen te werken aan maatschappelijk relevante onderwerpen.
 - Organiseren samenwerkingsochtend AA: zorgen voor meer verbinding in de gemeenschap.
-- 
 
-- BuitenkaNS: reizigers van de huishoudsbeurs begeleiden.
+# Andere stations
 
+Naast de twee functies die ik tijdens mijn traineeship heb ervaren zijn er nog veel meer andere leermomenten geweest. Allereerst alle activiteiten vanuit het traineeship. Denk hierbij aan de IT vakmodules, droomfabriek en intervisiemomenten. Hoe deze activiteiten hebben bijgedragen aan mijn ontwikkeling lees je hieronder.
+
+
+## BuitenkaNS: reizigers van de huishoudsbeurs begeleiden
+
+# Vooruitkijken: hoe nu verder
+
+# Bijlagen
+
+## Feedback
+
+### 360 graden feedback vanuit het RPA team
+
+#### Vikash Ganesh - RPA-ontwikkelaar
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Je staat open voor input, maar bent daarin ook wat eigenwijs; Je wilt iets ook zelf ervaren of verifiëren. Dat is zowel een kracht (daardoor begrijp je iets beter en leer je het voor later) als een valkuil (kan ook zonde van de tijd zijn). Daarnaast ben je een doorbijter, waar anderen soms opgeven, probeer je meerdere mogelijkheden of spoor je anderen daartoe aan.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer) zien doen?**
+
+‘Soms heb ik het idee (weet niet helemaal zeker dat dit klopt) dat je zaken die je minder leuk vind, voor je uit schuift. Probeer die vervelende klusjes snel te tackelen, zodat ze niet op de lange baan belanden.’
+
+**Stel dat je mij aanbeveelt voor een baan of opdracht, wat zou je dan zeggen?**
+
+‘Lars kan met een open blik naar een probleem kijken 
+en dit vanuit meerdere invalshoeken benaderen en onderzoeken om tot een goede oplossing te komen.’
+
+#### Shu Huang - RPA-ontwikkelaar
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘- technische kennis
+- data analyse
+- oplossingsgericht zaken opzoeken’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer) zien doen?**
+
+‘Misschien voor de 2e trainee-jaar meer werkzaamheden op het gebied van data analyse gaan doen. Ik denk dat je dan na trainee-ship meer inzicht zal krijgen waar je passie in ligt. Meer de developers kant in gaan of toch voor data-scientist kiezen.’
+
+**Stel dat je mij aanbeveelt voor een baan of opdracht, wat zou je dan zeggen?**
+
+‘Aankomend 1 - 5 jaar: Developer, Data-Analist
+daarna: IT manager als daar jou ambitie ligt :)’
+
+#### Mieke Duijf - RPA-ontwikkelaar
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Ik vind het bizar om te zien wat jij allemaal al kunt qua RPA.  Je leert snel en verdiept je naar mijn idee ook goed in de dingen waar je mee bezig bent. Je kunt goed helpen! Je legde dingen rustig uit en nam me daar echt in mee en nam daar ook de tijd voor. Ik had ook echt het gevoel dat ik op je kon vertrouwen qua kennis en kunde.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer) zien doen?**
+
+‘Uitgaan van je kracht en dit ook meer uitdragen. Je hebt echt veel kennis en ideeën en mag dat best laten zien.’
+
+**Stel dat je mij aanbeveelt voor een baan of opdracht, wat zou je dan zeggen?**
+
+‘Harde werker, leert snel en is niet vies van dingen uitproberen en onderzoeken. Qua persoonlijkheid een leuk iemand om in je team te hebben. Sociaal, in voor een lolletje en oprecht geïnteresseerd in de ander. Mocht het gaan om een baan waar je nog weinig ervaring in hebt dan zou ik zeggen dat ze zich daardoor niet moeten laten tegenhouden. Je hebt het zo onder de knie en ze zullen er een fijne medewerker bij hebben.’
+
+#### Yannick Hagenaars - Business Analist & RPA-ontwikkelaar
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Allereerst is Lars van nature stiekem wel een technische nerd (in positieve zin). Hierdoor weet hij veel van verschillende type code af en pakt hij gemakkelijk nieuwe programmeertalen op. Ten tweede, Lars heeft een focus om code te optimaliseren en te onderzoeken hoe code en processen nog beter uitgevoerd kunnen worden. Dit zorgt voor een optimaal resultaat voor de projecten/producten waar Lars aan werkt.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer) zien doen?**
+
+‘Lars is relatief zelfstandig. Dit is fijn, maar kan er soms toe leiden dat het team niet goed weet waar we Lars bij kunnen helpen. Dit is zowel op persoonlijke ontwikkeling gericht (Ik weet bijvoorbeeld nog steeds niet goed wat de ontwikkeldoelen van Lars zijn, en hoe ik hem kan helpen zijn doelen te bereiken.), als op technische aspecten. Met dit laatste doel ik op het vragen aan collega's of zij weten hoe iets moet, of of zij ideeen hebben die kunnen helpen, zonder het allemaal zelf uit te moeten zoeken’
+
+**Stel dat je mij aanbeveelt voor een baan of opdracht, wat zou je dan zeggen?**
+
+‘Lars is een gedreven talent, die heeft bewezen snel te leren en te willen leren. Zijn technische brede achtergrond weet hij goed te gebruiken om een product beter te maken dan via standaard wegen. Voor elk IT team waarin er met code gewerkt wordt zou ik Lars sterk aanbevelen.’
+
+#### Adrie van Lith - Product Owner RPA
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Vanuit bescheidenheid een hoge executiekracht en energie.
+Je komt bescheiden over maar geef goed je grenzen aan, je werk gedisciplineerd en gestructureerd. Een fijne collega waar je graag mee samenwerkt en in je team hebt.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer) zien doen?**
+
+‘Mijn tip is om eigen teleurstellingen te voorkomen afspraken dmv bijv een mailtje vast te leggen. Anders ben jij het die altijd alle klussen doet omdat de ander geen tijd had/heeft’
+
+**Stel dat je mij aanbeveelt voor een baan of opdracht, wat zou je dan zeggen?**
+
+‘Fijne toegankelijke collega die bescheiden overkomt maar zijn mannetje staat. Heeft een grote persoonlijke effectiviteit en drive om werkzaamheden succesvol af te ronden. Vaak een stille kracht maar wanneer nodig ook van zich laat horen!’
+
+#### Jorica Louwen - RPA-ontwikkelaar
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Volgens mij pak je nieuwe dingen snel op en ben je een aanpakker, je bent altijd bereid om iets op te pakken om ergens naar mee te kijken.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer) zien doen?**
+
+‘Ik denk dat wij te weinig direct samen hebben gewerkt voor mij om echte verbeterpunten te kunnen noemen.’
+
+**Stel dat je mij aanbeveelt voor een baan of opdracht, wat zou je dan zeggen?**
+
+‘Lars is een teamspeler die niet bang om zich te verdiepen in nieuwe dingen en hier over te leren.’
+
+#### Sander Beukema - Tech lead & RPA-ontwikkelaar
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Je enthousiasme om dingen op te pakken.
+Zelfstandigheid in je werkzaamheden.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer) zien doen?**
+
+‘Mening geven en nadenken of bestaande handelingen misschien anders moeten. Al deed je dat richting het einde ook steeds meer, dus dat is super mooi :).’
+
+**Stel dat je mij aanbeveelt voor een baan of opdracht, wat zou je dan zeggen?**
+
+‘Super leergierig persoon die goed mee kan bewegen in een team. En ook nog een technisch erg sterk dus een mooie aanwinst voor je team.’
+
+#### Jeroen Blok - RPA-ontwikkelaar
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Doorzettendheid, bij een visie ook de kracht om deze waar te maken, zelfs met tegenslagen’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer) zien doen?**
+
+‘Doorzettendheid, bij een visie ook de kracht om deze waar te maken, zelfs met tegenslagen’
+
+**Stel dat je mij aanbeveelt voor een baan of opdracht, wat zou je dan zeggen?**
+
+‘Lars doet exact wat hem gevraagd wordt binnen de opgegeven tijd en geeft het aan mocht dit niet lukken, een heel goed punt in een werknemer. Flexibel in meedenken met andere oplossingen.’
+
+### Feedback uit het tweede jaar
+
+### Algemene feedback
+
+#### 360 graden feedback van Maaike Gieskes
+
+Feedback van coach Maaike Gieskes op mijn ontwikkeling in de afgelopen anderhalf jaar.  
+
+‘Ik heb je leren kennen als een enthousiaste “jonge hond”, gretig om te leren en je kon soms verbaasd zijn over de (moeizame) processen in een (grote) organisatie. Toch liet je nooit je hoofd hangen en ging je door (denk aan het vinden van jouw 2e functie als it trainee). Ik vind dit ook echt één van jouw sterkste punten, jouw enthousiasme, en soms ook onbevangenheid en de energie die je steekt om zaken voor elkaar te krijgen. Daardoor lukt het je ook om gemakkelijk in verbinding te komen met anderen. Jouw enthousiasme werkt aanstekelijk. 
+
+Waar je je verder in kan ontwikkelen is durf om je uit te spreken en te laten zien wat je kan en wat je nog wilt leren, dat betekent vragen stellen, je nieuwsgierigheid tonen en ook lef om fouten te durven maken. Wel zie ik dat je een mooie ontwikkeling doormaakt en ik denk dat het een goede keuze van je is om je eerst inhoudelijk verder te ontwikkelen voordat je evt een stap naar leidinggeven gaat maken. Dat gaat je vast helpen in je ontwikkeling van jouw zelfvertrouwen en het verder vormen van je persoonlijkheid.’

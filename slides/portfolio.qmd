@@ -15,36 +15,49 @@ format:
 
 <!-- Korte introductie over het portfolio. Wie ben ik, waarom heb ik dit geschreven, en voor wie is het bedoelt. -->
 
-Ruim anderhalf jaar geleden kreeg ik het nieuws dat de NS mij een positie wilde aanbieden als IT trainee: een kans die ik met beide handen aangreep. Het IT traineeship bij de NS is een tweejarig programma waar je breed kennis maakt IT en Data door twee functie te vervullen. Bovendien hecht het programma veel waarde aan persoonlijke ontwikkeling. In het kader van ontwikkeling is ook dit portfolio geschreven waarbij teruggekeken en gereflecteerd wordt op mijn afgelopen twee jaar bij de NS. Hoe heb ik mezelf ontwikkeld in mijn eerste en tweede jaar en welke lessen neem ik mee naar de toekomst zijn vragen waar in dit portfolio antwoord op wordt gegeven.
+Alweer ruim anderhalf jaar geleden kreeg ik de kans om bij NS te beginnen als IT trainee: een kans die ik met beide handen aangreep. Het IT traineeship bij de NS is een tweejarig programma waarin je breed kennis leert maken met de IT en Data landschappen. Bovendien hecht het programma veel waarde aan persoonlijke ontwikkeling. In het kader van ontwikkeling is ook dit portfolio geschreven waarbij teruggekeken en gereflecteerd wordt op mijn afgelopen twee jaar bij de NS. Hoe heb ik mezelf ontwikkeld in mijn eerste en tweede jaar en welke lessen neem ik mee naar de toekomst zijn vragen waar ik in dit portfolio antwoord op geef.
 
 # Nulmeting: hoe ik binnenkwam bij NS
 
-<!-- Vertel hoe ik binnekwam bij NS. Als een pas afgestudeerde student zonder werkervaring. Dit is belangrijk om mijn ontwikkeling te kunnen meten. -->
+<!-- Vertel hoe ik binnekwam bij NS. Als een pas afgestudeerde student zonder werkervaring. Dit is belangrijk om mijn ontwikkeling te kunnen meten.
+
+- Na afronding van master Busines Informatics op de Universiteit van Utrecht wist ik nog niet goed welke kant ik op wilde. Het was een brede studie waarin je als student veel vrijheid had om een richting te kiezen. Ondanks dat ik me vooral gericht had om data, en machine learning vakken wist ik niet of dit de juiste richting voor mij was.
+- Het traineeship voor de NS gekozen omdat je hier breed kennis kunt maken met het IT en Data landschap van een grote maatschappelijke orgnanisatie. Op deze manier kon ik beter voor mezelf bepalen waar mijn interesse en kracht ligt. 
+- Daarnaast voor NS gekozen omdat het een organisatie is die iedereen kent: het staat letter midden in de maatschappij. Aangezien ik zelf ook vaak met de trein heb gereisd (in mijn bachelor bijna iedere dag de trein van Eindhoven naar Breda) leek me dit erg leuk.
+- Als laatste de focus die het traineeship legt op persoonlijke ontwikkeling me erg aan. Mijn leergierigheid sluitte hier goed op aan.
+- Iets uit persoonlijkheidstest terug laten komen.
+
+ -->
 
 Als vers afgestudeerde Business Informatics student met een focus op data wetenschappen kwam ik binnen bij NS. Ik had wat werkervaring in kleinere IT organisaties maar nog nooit eerder in een organisatie als NS gewerkt. Ik heb de keuze voor NS gemaakt omdat het een organisatie is die midden in de maatschappij staat. Aangezien IT en Data vaak abstracte begrippen zijn, hoopte ik hierdoor toch wat dichter bij de werkelijkheid te kunnen staan. Het traineeship sprak me aan vanwege de sterek focus op persoonlijke ontwikkeling maar ook om te ontdekken waar mijn krachten liggen en waar ik energie van krijg om zo beter richting te kunnen geven aan mijn carriere. 
 
 Als persoon kwam ik binnen zonder ervaring met het werken in een grote organisatie. 
 
-
-
-<!-- ## Wie ben ik
-
-25-jarige Brabantse Amsterdammer
-
-### Interesses
-
-Teamsporten (_vooral (zaal)voetbal maar ook tennis, squash, padddel_), reizen naar Italie, DIY projecten, en tech.
-
-### Achtergrond
-
-- Educatie:
-  - 2015-2019 BASc Business IT & Management @ Avans Breda
-  - 2019-2021 MSc Business Informatics met specialisatie in Data Science @ Utrecht Universiteit
-- Ervaringen:
-  - 2021-2022 RPA ontwikkelaar & business consultant @ NS
-  - 2022-heden Data Scientist @ NS -->
-
 # Het eerste jaar: RPA-ontwikkelaar bij Staven
+
+Het eerste jaar in mijn traineeship ben ik begonnen in het RPA team als ontwikkelaar en business consultant. Dit betekent dat ik verantwoordelijk was voor het identificeren en automatiseren van tijdrovende, repeterende bedrijfsprocessen die veelal handmatig worden uitgevoerd door medewerkers. Denk hierbij bijvoorbeeld aan het dagelijks opslaan van een aantal documenten die per mail verstuurd worden op de Sharepoint. Als dit een veel terugkomende activiteit is kunnen we dit met RPA automatiseren door de handelingen van de medewerker na te bootsen. Op deze manier kan de medewerker zich weer focussen op de zijn of haar kerntaken, besparen we tijd, en verlagen we de kans op fouten doordat de handelingen met regels zijn vastgelegd. Het leuke aan RPA is dat je volledige verantwoordelijk hebt over het gehele proces van idee tot implementatie.
+
+## Mijn ontwikkelplan in het kort
+
+Hieronder kort mijn ontwikkelplan voor het eerste jaar. Aangezien RPA nog onbekend terrein was voor mij lag de eerste maanden vooral de focus om me daarin kundig te maken.
+
+Ontwikkeldoelen (OD):
+
+- OD1: Breed het IT landschap binnen de NS-organisatie leren kennen.
+  - Motivatie: Als beginnend professional denk ik dat het belangrijk is om meer inzicht te krijgen in huidige IT landschap. Dit betekent dat ik wil weten wat de verschillende functies en rollen inhouden en hoe deze in relatie met elkaar staan in de IT organisatie. Op deze manier hoop ik sneller de juiste mensen in de organisatie te kunnen vinden en te ontdekken waar mijn kracht ligt.
+- OD2: Zichtbaarheid vergroten in onbekende situaties.
+  - Motivatie: Tijdens de eerste maanden bij NS heb ik ondekt dat ik het lastig vind om mezelf goed te positioneren in situaties waar ik zelf weinig kennis van heb. Met dit ontwikkeldoel wil ik uitzoeken waar deze beweging vandaan komt om uiteindelijk mezelf beter te kunnen positioneren.
+
+Resultaatdoelen (RD):
+
+- RD1: Kennis op het gebied van Robotic Process Automation vergroten door het volgen van de Foundations en Advanced curussen van [UiPath](https://www.uipath.com/).
+  - Motivatie: Aangezien ik nog geen ervaring met RPA had was het belangrijk om te beginnen met een tweetal basis cursussen.
+- RD2: Binnen 3 maanden een eerste RPA project van intake tot implementatie oppakken.
+  - Motivatie: Door snel een relatief simpel project op me te nemen maak ik snel kennis van het gehele RPA proces. Hierdoor kan ik de opgedane kennis in de cursussen direct toepasbaar maken. 
+- RD3: Eigen netwerk binnen NS inzetten om een RPA project te identificeren.
+  - Motivatie: Door RPA actief te promoten binnen mijn trainee netwerk wil ik een eigen RPA project binnenhalen. 
+
+## Reflectie op vakinhoudelijke ontwikkeling
 
 Als RPA ontwikkelaar was ik verantwoordelijk voor het **automatiseren van tijdrovende, repeterende computergestuurde bedrijfsprocessen** die veelal handmatig worden uitgevoerd door collega's. 
 
@@ -60,6 +73,8 @@ Projecten onder mijn verantwoordelijkheid:
 Met alle projecten samen heb ik NS een geschatte besparing van XX euro opgeleverd!
 
 Maar...
+
+![Mijn persoonlijke RPA canvas](images/rpa_personal_canvas.pdf)
 
 ## Wat heb geleerd tijdens mijn eerste jaar
 
@@ -83,6 +98,35 @@ Maar...
 # Het tussenstation: een korte reflectie
 
 # Door naar het tweede jaar: Data Scientist bij SCUBA
+
+In het tweede jaar van mijn traineeship heb ik de overstap gemaakt naar team SCUBA, een Advanced Analytics team binnen de afdeling Data, Innovatie en Analyse (DIA). 
+
+## Ontwikkelplan voor het tweede jaar
+
+In het tweede jaar wilde ik mezelf vooral ontwikkelen als data scientist. Hiervoor heb ik het volgende ontwikkelplan opgesteld.
+
+Ontwikkeldoelen (OD):
+
+- OD1: Kennis over de basisconcepten van machine learning vergroten.
+  - Motivatie: Het is als data scientist belangrijk om de basisbeginselen goed te begrijpen. Aangezien ik in mijn eerste jaar hier niet mee gewerkt heb is het goed om deze weer eens te herhalen.
+- OD2: Programmeervaardigheden met Python verbeteren.
+  - Motivatie: Om effectief te kunnen werken als data scientist is het belangrijk om te beschikken over sterke programmeervaardigheden. Binnen SCUBA wordt voornamelijk Python gebruikt en dus is het doel om op deze taal te focussen. Dit betekent dat ik sterker wil worden in het schrijven van efficiente en leesbare Python code en om kan gaan met de meest bekende packages die binnen het vakgebied gebruikt worden zoals Pandas, Numpy, en Scikit-learn.
+- OD3: Kennis op het gebied van deep learning vergroten.
+  - Motivatie: Om onze modellen te verbeteren zouden we kunnen experimenteren met meer geavanceerde neurale netwerken. Om dit toe te kunnen passen is het belangrijk om de basisprincipes van deep learning te begrijpen.
+- OD4: Meer samen optrekken met andere Data Experts binnen de AA gemeenschap.
+  - Motivatie: Dit om (1) breder inzicht te krijgen in de toepassingen die door NS ontwikkeld worden, (2) van andere data experts te leren, en (3) mijn netwerk uit te bereiden.
+
+Resultaatdoelen (RD):
+
+- RD1: Een van de samenwerkingsochtenden organiseren om breder mezelf sterker te positioneren binnen de gemeenschap.
+  - Motivatie: De samenwerkingsochtenden is een initiatief van de tech leads om eens in de vier weken met de AA gemeenschap bij elkaar te komen om elkaar beter te leren kennen en kennis te delen. Door een van de ochtenden te hosten kan ik mijn zichtbaarheid binnen AA vergroten.
+- RD2: Verantwoordelijkheid in het team vergroten.
+  - Motivatie: Ik merk dat ik in mijn kracht wordt gezet wanneer ik meer verantwoordelijkheid heb. Aangezien veel in teamverband wordt gedaan komt dat minder terug in mijn huidige functie. Door dit terug te vinden denk ik dat ik mezelf beter kan ontwikkelen.
+
+Leerfocus: 
+
+- Intensief samenwerken.
+- Verantwoordelijkheid hebben.
 
 ## Data Scientist
 
@@ -231,7 +275,96 @@ Zelfstandigheid in je werkzaamheden.’
 
 ‘Lars doet exact wat hem gevraagd wordt binnen de opgegeven tijd en geeft het aan mocht dit niet lukken, een heel goed punt in een werknemer. Flexibel in meedenken met andere oplossingen.’
 
-### Feedback uit het tweede jaar
+### Feedback op de eerste 5 maanden bij SCUBA
+
+#### Wouter Hordijk - Data Scientist en Product Owner
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Je weet je draai snel en goed te vinden. Je pakt nieuwe dingen voortvarend op maakt deze je echt eigen. Je stelt kritische en goede vragen, en daarmee houd je het team scherp. Je neemt daarnaast het initiatief en het voortouw bij de voorbereiding en uitvoering van meetings, events,of andersoortige initiatieven en dit doe je goed en doortastend.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer of anders) zien doen bij SCUBA?**
+
+‘SCUBA is een team waarin het lastig is om beslissingen te nemen. Er zijn sterke meningen en die lopen soms behoorlijk uiteen. Dit is enerzijds een kracht vanwege de diverstiteit, anderzijds een uitdaging wegens beperkte mogelijkheden voor het aanbrengen van focus. Misschien vind je het eens leuk om te sparren over hoe we dat binnen het team goed het hoofd zouden kunnen bieden? Laat het me maar weten als je hier eens van gedachten over wilt wisselen :)’
+
+**Heb je nog andere opmerkingen of tips voor mij?**
+
+‘Je past goed bij het team en je brengt een positieve en constructieve sfeer mee. Je bent daarmee een zeer gewaardeerde collega en een echte aanwinst voor SCUBA!’
+
+#### Luca Verhees - Data Scientist
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Het is goed om te zien hoe je je in korte tijd zo positief hebt ontwikkeld en een waardevolle bijdrage hebt geleverd aan het team.
+
+Je bent altijd behulpzaam en het is fijn om met je samen te werken. Je stelt je proactief op, kan je goed verplaatsen in anderen en je bent constructief. Bijvoorbeeld tijdens de pair-programming sessies voor de implementatie van de preprocessing modules van FRAME data.
+
+Je hebt bewezen daadkrachtig te zijn door op verschillende vlakken de lead te nemen en een waardevolle bijdrage te leveren in het team. Hierin pas je moeiteloos je communicatie aan aan de doelgroep of dat nou een teamlid is of een business stakeholder.  Dit heb je bijvoorbeeld laten zien door het verbeteren van het onboarding proces, het faciliteren van een van de Heidag sessies en je bijdrage aan de implementatie van de prognose voor potentiële OV-fiets verhuurlocaties.
+
+Tot slot ben je oplossingsgericht en zet je je actief in voor het verbeteren van processen binnen het team. Je weet de juiste kritische vragen te stellen tijdens team-discussies, daarmee lever je een positieve bijdrage aan een open, transparante sfeer in het team. En je weet complexe problemen in kaart te brengen en kleiner te maken, daarbij schakelt je makkelijk tussen de inhoud en het proces.  Dit heb je bijvoorbeeld laten zien tijdens de Heidag en door je inzet om de kennisdeling binnen het team structureel te verbeteren.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer of anders) zien doen bij SCUBA?**
+
+‘Van wat ik tot nu toe gezien heb, heb ik nog geen kwaliteiten ontdekt die je op negatieve manier inzet. Integendeel, je bent een waardevolle aanwinst voor ons team. Ik ben onder de indruk van je brede interesses en je flexibiliteit.
+
+Ik ben benieuwd wat je écht drijft en wat je energie geeft. Het is duidelijk dat je zowel interesse hebt in business, science en computing, en dat je dit soort taken ook uitvoert binnen het team. Je leert jezelf snel nieuwe dingen aan en deinst er niet van terug om iets nieuws aan te gaan. Dat is volgens mij een zeer goede eigenschap als Data Scientist en zeker als trainee.
+
+Om je verder te kunnen ontwikkelen in je carrière, kan ik me voorstellen dat het helpt om helder te krijgen van wat je écht drijft en waar je passie ligt. Dan behoud je niet alleen het plezier in je werk, maar biedt je ook de mogelijkheid om een specialisme te kunnen ontwikkelen.’
+
+**Heb je nog andere opmerkingen of tips voor mij?**
+
+‘Je bent een hele fijne collega om mee samen te werken en jouw bijdrage en kwaliteiten zijn zeer waardevol voor het team!’
+
+#### Marthe Veldhuis - Data Scientist
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Mijn indruk is dat je hard werkt en goed je best doet met het ontwikkelwerk. Zo heb je samen met Luca veel teweeg gebracht voor het OFP project! Je werkt graag samen, wat zorgt voor snelle ontwikkeling met korte feedback loops. Ook heb je interesse in de manier waarop we als team werken, waar je je voor inzet.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer of anders) zien doen bij SCUBA?**
+
+‘Een tip die ik zelf vanuit het JongNS ontwikkeltraject had meegekregen was om niet alleen de “wat” maar ook de “hoe” voor te bereiden bij het plannen van een sessie. Die heeft mij erg geholpen om verschillende soorten besprekingen in goede banen te leiden, er vertrouwen in de houden, en de regie te bewaren. Ik haak even in op de Heidag, waarin het leek alsof je aan jezelf begon te twijfelen, vandaar!’
+
+**Heb je nog andere opmerkingen of tips voor mij?**
+
+‘Laat vooral weten als iets onduidelijk is, of je nog iets specifiek wil weten.’
+
+#### Robbert Huisman - Data Engineer
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Samenwerken. Het is fijn met je samenwerken, je neemt rustig de tijd om dingen uit te leggen en samen te kijken wat de beste oplossing is en dit uit gaan voeren. Bij de comments die je op mijn PR's gaf was ook de uitleg duidelijk, dat helpt goed om samen tot een goed resultaat te komen.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer of anders) zien doen bij SCUBA?**
+
+‘Doordat we nog niet heel lang samenwerken en vooral op de andere projecten zitten vind ik dit lastig om te beantwoorden.’
+
+**Heb je nog andere opmerkingen of tips voor mij?**
+
+‘Je bent een vrolijke, gezellige, fijne collega om mee te werken.’
+
+#### Bram Zandbelt - Data Scientist
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Assertiviteit:
+Je bent assertief en neemt op tal van vlakken initiatief. Je hebt het voortouw genomen bij het in kaart brengen van kennis binnen SCUBA, je hebt meegedaan met de Kickstart AI challenge, in team-sessies ben je proactief om de backlog bij te werken of doelen te formuleren, en als je vastloopt in je data science werk schakel je tijdig hulp in. Top!
+​
+Teamplayer:
+Ik herken in jou een echte teamplayer. Je werkt graag en goed samen in diverse samenstellingen, bijvoorbeeld op OFP met Luca, AA community workshop met Wouter en mij, en de organisatie van de heidag met Branka en Wouter. Je hebt veel bijgedragen aan de voorbereidingen van de AA Hackathon in december, ondanks dat je zelf niet kon deelnemen. Die houding waardeer ik enorm en helpt een team als SCUBA om te kunnen presteren.
+
+Pragmatisch en snel:
+Je bent pragmatisch en werkt snel en houdt graag vaart in projecten. Voorbeelden daarvan zijn de refactoring van OFP, maar ook de organisatie van de AA community workshop over kennisdeling. Ik zie deze eigenschappen echt als een sterk punt, want het helpt het kort-cyclisch, resultaatsgericht werken en gaat verspilling van tijd en geld tegen.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer of anders) zien doen bij SCUBA?**
+
+‘​Binnen SCUBA benut je verschillende mogelijkheden om de diepte op te zoeken (maar van mij mag je hierin op data science vlak nog verder gaan), binnen je traineeship zoek je, vermoed ik, de breedte op. Aandacht voor beide fronten is essentieel voor je loopbaan, of die in data, IT, of elders ligt. Ik wil je daarom graag aanmoedigen hiermee door te gaan: blijf leren en leg een degelijke basis aan in zowel je technische skills als je transferable skills.
+
+Een punt voor reflectie: pragmatisch en snel werken heeft een valkuil. Binnen data science projecten is het noodzakelijk oog te houden voor de complexiteit van analyses, de diversiteit en gelaagdheid van de data, en de accuraatheid van de conclusies die wij (en met ons de stakeholders) trekken. Ogenschijnlijk kleine fouten en overgeslagen checks kunnen grote gevolgen hebben en uiteindelijk alsnog tot tijd- en geld-verspilling leiden. Vergeet daarom niet om kwaliteit uit het oog te verliezen.’
+
+**Heb je nog andere opmerkingen of tips voor mij?**
+
+‘​Ik vind dat je een mooie bijdrage levert aan SCUBA! Je bent een fijne collega en aanwinst voor ons team!’
 
 ### Algemene feedback
 

@@ -3,7 +3,9 @@ title: "Portfolio Lars: Mijn reis door NS"
 author: "Lars van Asseldonk - IT Trainee Focus 11"
 date: today
 toc: true
+toc-depth: 2
 number-sections: true
+lang: nl
 format: 
   revealjs:
     css: theme.css
@@ -15,38 +17,202 @@ format:
 
 <!-- Korte introductie over het portfolio. Wie ben ik, waarom heb ik dit geschreven, en voor wie is het bedoelt. -->
 
-Alweer ruim anderhalf jaar geleden kreeg ik de kans om bij NS te beginnen als IT trainee: een kans die ik met beide handen aangreep. Het IT traineeship bij de NS is een tweejarig programma waarin je breed kennis leert maken met de IT en Data landschappen. Bovendien hecht het programma veel waarde aan persoonlijke ontwikkeling. In het kader van ontwikkeling is ook dit portfolio geschreven waarbij teruggekeken en gereflecteerd wordt op mijn afgelopen twee jaar bij de NS. Hoe heb ik mezelf ontwikkeld in mijn eerste en tweede jaar en welke lessen neem ik mee naar de toekomst zijn vragen waar ik in dit portfolio antwoord op geef.
+In de periode van september 2021 tot en met september 2023 heb ik, [Lars van Asseldonk](https://www.linkedin.com/in/larsvasseldonk/), het IT traineeship bij de NS doorlopen. Ter afronding van het traineeship heb ik dit portfolio geschreven waarin ik je meeneem in mijn reis door NS. Ik blik terug op hoe ik mezelf ontwikkeld heb in mijn traineeship en kijk vooruit naar mijn toekomst bij NS.
 
-# Nulmeting: hoe ik binnenkwam bij NS
+Ik begin mijn portfolio door kort te beschrijven hoe ik NS binnenkwam en wat ik hier hoopte te bereiken. Dit als soort nulmeting om mijn ontwikkeling meetbaar te kunnen maken. In  @sec-eerste-jaar-bij-rpa blik ik terug op mijn eerste jaar bij het RPA team door te reflecteren op mijn leerdoelen en je mee te nemen in mijn hoogtepunten. @sec-tussenstation staat in het teken van het tussenstation om te bepalen waar ik stond en hoe ik verder wilde. Vervolgens geef ik in @sec-tweede-jaar-bij-scuba een reflectie op mijn ontwikkeling bij SCUBA. Als laatste sluit ik af door in @sec-vooruitkijken vooruit te kijken naar mijn toekomst bij NS. De bijlage van dit portfolio bevat veelal bewijsvoering voor mijn ontwikkeling zoals ontwikkelplannen, certificaten, en feedback van collega's. Veel leesplezier!  
 
-<!-- Vertel hoe ik binnekwam bij NS. Als een pas afgestudeerde student zonder werkervaring. Dit is belangrijk om mijn ontwikkeling te kunnen meten.
+# Nulmeting: hoe ik binnenkwam bij NS {#sec-nulmeting}
 
-- Na afronding van master Busines Informatics op de Universiteit van Utrecht wist ik nog niet goed welke kant ik op wilde. Het was een brede studie waarin je als student veel vrijheid had om een richting te kiezen. Ondanks dat ik me vooral gericht had om data, en machine learning vakken wist ik niet of dit de juiste richting voor mij was.
-- Het traineeship voor de NS gekozen omdat je hier breed kennis kunt maken met het IT en Data landschap van een grote maatschappelijke orgnanisatie. Op deze manier kon ik beter voor mezelf bepalen waar mijn interesse en kracht ligt. 
-- Daarnaast voor NS gekozen omdat het een organisatie is die iedereen kent: het staat letter midden in de maatschappij. Aangezien ik zelf ook vaak met de trein heb gereisd (in mijn bachelor bijna iedere dag de trein van Eindhoven naar Breda) leek me dit erg leuk.
-- Als laatste de focus die het traineeship legt op persoonlijke ontwikkeling me erg aan. Mijn leergierigheid sluitte hier goed op aan.
-- Iets uit persoonlijkheidstest terug laten komen.
+<!-- Vertel hoe ik binnekwam bij NS. -->
 
- -->
+Na de afronding van mijn master [Busines Informatics](https://www.uu.nl/en/masters/business-informatics) op de Universiteit van Utrecht had ik een gezonde bagage aan IT kennis om het bedrijfsleven in te stappen maar was het voor mij nog onduidelijk in welke richting ik me wilde bewegen. Ondanks dat ik me tijdens mijn studie vooral gefocused had op data en machine learning vakken was ik benieuwd om ook anderen hoeken van de IT te ontdekken. Bovendien had ik niet eerder in een grote IT organisatie gewerkt en dus onvoldoende beeld bij wat er allemaal mogelijk was qua rollen en functies. Met het traineeship hoopte ik daarom beter voor mezelf te kunnen bepalen waar mijn interesse en kracht ligt. Daarnaast had ik voor NS gekozen omdat het een organisatie is die iedereen kent en midden in de maatschappij staat. 
 
-Als vers afgestudeerde Business Informatics student met een focus op data wetenschappen kwam ik binnen bij NS. Ik had wat werkervaring in kleinere IT organisaties maar nog nooit eerder in een organisatie als NS gewerkt. Ik heb de keuze voor NS gemaakt omdat het een organisatie is die midden in de maatschappij staat. Aangezien IT en Data vaak abstracte begrippen zijn, hoopte ik hierdoor toch wat dichter bij de werkelijkheid te kunnen staan. Het traineeship sprak me aan vanwege de sterek focus op persoonlijke ontwikkeling maar ook om te ontdekken waar mijn krachten liggen en waar ik energie van krijg om zo beter richting te kunnen geven aan mijn carriere. 
+# Het eerste jaar: RPA-ontwikkelaar bij Staven {#sec-eerste-jaar-bij-rpa}
 
-Als persoon kwam ik binnen zonder ervaring met het werken in een grote organisatie. 
+Het eerste jaar in mijn traineeship ben ik begonnen als ontwikkelaar in het RPA team dat onder de afdeling Staven valt. Als RPA ontwikkelaar was ik verantwoordelijk voor het identificeren en automatiseren van tijdrovende, repeterende bedrijfsprocessen die veelal handmatig worden uitgevoerd door medewerkers. Denk hierbij bijvoorbeeld aan het dagelijks handmatig opslaan van meerdere documenten die per mail verstuurd worden op de Sharepoint. Als dit een terugkomende activiteit is kunnen we dit met RPA automatiseren door de handelingen van de medewerker na te bootsen. Op deze manier kunnen collega's zich focussen op de kerntaken, besparen we tijd, en verlagen we de kans op fouten doordat de handelingen met regels zijn vastgelegd. In dit hoofdstuk blik ik terug op mijn ontwikkeling bij het RPA team. 
 
-# Het eerste jaar: RPA-ontwikkelaar bij Staven
+## Mijn reis door RPA: een aantal hoogtepunten uitgelicht
 
-Het eerste jaar in mijn traineeship ben ik begonnen in het RPA team als ontwikkelaar en business consultant. Dit betekent dat ik verantwoordelijk was voor het identificeren en automatiseren van tijdrovende, repeterende bedrijfsprocessen die veelal handmatig worden uitgevoerd door medewerkers. Denk hierbij bijvoorbeeld aan het dagelijks opslaan van een aantal documenten die per mail verstuurd worden op de Sharepoint. Als dit een veel terugkomende activiteit is kunnen we dit met RPA automatiseren door de handelingen van de medewerker na te bootsen. Op deze manier kan de medewerker zich weer focussen op de zijn of haar kerntaken, besparen we tijd, en verlagen we de kans op fouten doordat de handelingen met regels zijn vastgelegd. Het leuke aan RPA is dat je volledige verantwoordelijk hebt over het gehele proces van idee tot implementatie.
+<!-- Zet dit om naar een mooie infographic met het spoor en een aantal stations. -->
 
-## Mijn ontwikkelplan in het kort
+- [September 2021] Start bij het RPA team en de UiPath cursussen
+- [Oktober 2021] Start eigen RPA project bij NS Techniek
+- [November 2021] Presentatie RPA bij de innovatieweek
+- [Januari 2022] Pitch en start van business opdracht
+- [Januari 2022] Afronding RPA project NS Techniek en start nieuwe case voor HR
+- [Maart 2022] Start twee nieuwe RPA projecten: archiveren van documenten en exporteren MBN kennisbank
+- [Mei 2022] Verbreden in het cluster: Solution Architect ondersteunen bij projectwerk
+  <!-- - In het kader van mijn leerdoel om NS breed te leren kennen had ik aangegeven dat het met interessant lijkt om eens mee te lopen met een solution architect. Christian Brinkhuis stond hier open voor en betrok me bij zijn dagdagelijkse werkzaamheden. Op deze manier heb ik geleerd wat het indhoudt om een Solution Architect te zijn. Een solution architect zorgt er vooral voor dat de NS systemen binnen de juiste kaders geimplementeerd worden. -->
+- [Juli 2022] Afronding business opdracht bij Julia's
+  <!-- - Op 7 juli was het tijd voor de eindpresentatie van de business opdracht.  -->
+- [Oktober 2022] Afronding RPA printlijsten case
+  <!-- - Ondanks dat ik al begonnen was bij mijn nieuwe team SCUBA ben ik ook nog bezig geweest met het afronden van de printlijsten robot. Aangezien ik alle kennis had omtrent deze robot en we bijna ten einde waren heb ik besloten om zelf de case af te ronden. Echter duurde het langer dan ik had ingeschat en dus was een leermoment hier om betere afspraken te maken zodat ik het project had kunnen overdragen aan RPA collega's. -->
 
-Hieronder kort mijn ontwikkelplan voor het eerste jaar. Aangezien RPA nog onbekend terrein was voor mij lag de eerste maanden vooral de focus om me daarin kundig te maken.
+## Terugblik op het eerste jaar
+
+Allereerst ben ik begonnen om mijn kennis op het gebied van procesautomatisering te vergroten. Aangezien ik geen ervaring had met procesautomatiseringstools, vond ik het belangrijk om te beginnen met twee cursussen van UiPath. Ik heb de RPA Starter-cursus gevolgd en nadat ik deze had afgerond, ben ik begonnen met de Advanced Developer-cursus. In de [bijlagen](#RPA-Certificaten) van dit portfolio kun je de certificaten vinden die ik heb behaald voor deze cursussen. Naast het volgen van de cursussen heb ik veel hulp gevraagd aan collega's met ervaring en ben ik vanaf het begin betrokken geweest bij gesprekken met stakeholders over mogelijke nieuwe projecten. Dit heeft mij geholpen te leren hoe mijn collega's dit aanpakken.
+
+Wat verder heeft geholpen bij mijn ontwikkeling was de kans om al binnen een maand mijn eigen project op te pakken. Dit project was voor de afdeling NS Techniek en betrof de geautomatiseerde archivering van TRAXX-protocollen. Hoewel het automatiseren van dit proces relatief eenvoudig was, gaf het me de mogelijkheid om in een vroeg stadium te ontdekken wat er nodig is om een proces volledig te automatiseren. Hierdoor heb ik niet alleen geleerd hoe ik een "robot" kan ontwikkelen, maar ook hoe ik het proces kan analyseren, documenteren, testen en implementeren. Daarnaast heb ik ervaring opgedaan met projectmatig werken en geleerd hoe ik tussenresultaten begrijpelijk kan communiceren aan niet-technische belanghebbenden.
+
+Om mezelf verder uit te dagen en te ontwikkelen als procesautomatiserings deskundige, wilde ik een complexer project oppakken. Dit betekende een project met meer afhankelijkheden en dat over meerdere systemen heen werkt. Dit leidde tot een nieuw project voor de afdeling HR Support dat ging over het geautomatiseerd uploaden van brieven in het personeelsdossier met als doel 0,2 FTE tijdsbesparing. Het project kende meerdere uitdagingen als ik er op terugkijk. Allereerst, omdat het proces normaliter werd uitbesteed, was er geen standaard proces voor ingericht. Dit betekende dat ik dit zelf moest uitzoeken. Wat ik hiervan geleerd heb is dat het belangrijk is om altijd door te vragen en de "waarom" vraag te stellen. Dit is nodig om alle ins en outs van het proces helder te krijgen en om achteraf niet tegen verassingen aan te lopen. Een voorbeeld hierbij is de invoer van een handmatige controleslag in het proces. Dit ontdekte ik pas later waardoor de architectuur van de robot verandert moest worden. Een ander leerdoel van dit project was het inzicht dat ik gekregen heb in het stakeholderlandschap. In het begin was het voor mij erg onduidelijk wie ik voor welke vraag kon benaderen. Ik wist bijvoorbeeld niet wie er voor connectiviteit moest zorgen zodat ik gebruik kon maken van een API die speciaal voor dit project werd ontwikkeld. Gedurende dit project heb ik daarom veel meer inzicht gekregen in het stakeholdersveld en weet ik beter wie ik voor welke vraag kan benaderen.
+
+Een ander RPA project waar ik op wil terugblikken is het project om geautomatiseerd documenten uit twee oude SAP systemen te archiveren. Het ging hier om honderd duizenden documenten die gemigreerd moesten worden naar een archiveringssyteem zodat de oude systemen uitgezet konden worden. Het leuke is dat ik voor dit project RPA zelf heb geadviseerd en dit anders niet gebruikt was. Er zijn een aantal lessen die ik uit dit project heb gehaald. Allereerst kwam er vanuit de business veel weerstand op het project en kwamen er regelmatig vragen om meer te doen. Hierdoor werd het project groter dan ik van te voren had ingeschat. Wat ik geleerd heb is dat ik beter mijn grenzen aan moet geven en bewaken. Tot waar ligt mijn verantwoordelijkheid, en wat doe ik wel en wat doe ik niet. Het is beter om 5 dingen heel erg goed te doen dan 10 dingen half of dat de 10 dingen onredelijk veel tijd kosten. Een ander leerpunt is dat ik beter moet aangeven wat ik van wie verwacht. Af en toe bleef dit in het midden wat zorgde voor onduidelijkheid. Ik ben daarom gaan oefenen om concrete afspraken en actiepunten aan het einde van een sessie te herhalen zodat deze voor iedereen duidelijk zijn.
+
+Naast mijn inhoudelijk ontwikkeling ben ik ook aan de slag gegaan om breder de IT-organisatie te leren kennen. Om deze reden heb ik na mijn tweede RPA project aangegeven dat ik mezelf wilde gaan verbreden binnen het cluster om zo meer van de IT te kunnen ervaren. Doordat je je als trainee wat makkelijker door de organisatie heen kunt bewegen zag ik dit als een kans. Ik ben daarom in contact gekomen met een solution architect en hem ondersteund in zijn werkzaamheden. Dit een aantal uur in de week naast mijn RPA werkzaamheden en heeft geholpen om een beeld krijg wat het vak  als architect inhoud. 
+Hiernaast heb ik veel kenningsmakingsgesprekken gehad met IT experts uit verschillen hoeken. Op deze manier heb ik beter beeld gekregen welke functies en teams er allemaal zijn en heb ik gerichter kunnen zoeken naar mijn vervolgfunctie voor het tweede jaar. 
+
+Een laatste ontwikelpunt was het spreken voor groepen. Ik heb verschillende presentaties gegeven om RPA te promoten en diverse workshops georganiseerd om nieuwe opdrachten binnen te halen. Door deze oefeningen heb ik meer zelfvertrouwen gekregen en voel ik me comfortabeler bij het spreken voor groepen. Mijn EL uit het eerste jaar gaf als feedback dat ik tijdens de eindpresentatie van de business opdracht rustig sprak en de vragen van de beoordelingscommissie goed beantwoordde. Ik neem deze feedback mee naar mijn tweede jaar en blijf oefenen om mijn vaardigheden op dit gebied verder te ontwikkelen.
+
+<!-- - De feedback die ik van collega's kreeg over mijn eerste jaar bij het RPA team is toegevoegd aan de bijlagen. De rode draad ik terugvind ik mijn feedback is dat collega's vinden dat ik goed kan luisteren, begrip heb voor een ander, een harde-werker ben die zichzelf snel technisch ontwikkeld. Bovendien zie is het belangrijk dat ik afspraken en besluiten goed vastleg zodat hier geen onduidelijk over bestaat.  -->
+
+<!-- ### Eerste RPA project voor NS techniek: archiveren van TRAXX protocollen
+
+In oktober kreeg ik de kans om een eerste eigen RPA project op me te nemen. Dit project was voor de afdeling NS Techniek en ging over het geautomatiseerd archiveren van documenten die meermaals per dag via de mail verstuurd worden op een centrale Sharepoint omgeving. Door dit proces te automatiseren kon ik de afdeling NS techniek naar schatting 16 uur in de maand aan tijd besparen. Een van de grootste uitdagingen om dit project tot een goed einde te brengen was om het proces helder in kaart te brengen en dat te kunnen vertalen naar een computer script. Ik heb hier geleerd dat het belangrijk is om goed door te vragen en altijd de waarom vraag te stellen om alle mogelijke scenario's van het proces op papier te krijgen. Het is juist belangrijk om de uitzonderingen die zelden voor te komen helder te hebben zodat ook de robot hier mee om kan gaan. Bovendien heb ik geleerd hoe processen te documenteren in een procesflow. Daarnaast heb ik tijdens dit project veel kennis opgedaan over het bouwen en in productie brengen van een robot. Zo heb ik geleerd dat het belangrijk is om altijd een fall back scenario's gereed te hebben voor wanneer de robot niet kan draaien. Op deze manier weet de business wat ze kunnen verwachten in situaties dat de robot uitvalt.
+
+### RPA project voor HR: Brieven uploaden in personeelsdossier.
+
+In dit project heb ik de afdeling HR-Support geholpen met de automatisering van het in bulk opstellen en uploaden van brieven naar het personeelsdossier. Op basis van de verwachting voor 2022 kan worden gesteld dat de potentiële tijdsbesparing, puur op basis van de bespaarde werkzaamheden aan HR-zijde, kan worden ingeschat op 0,2 FTE (9000 brieven, 2 minuten per brief voor 2022).
+
+![Mijn persoonlijke RPA canvas](images/rpa_personal_canvas.pdf)
+-->
+
+# Het tussenstation: een korte reflectie {#sec-tussenstation}
+
+Door terug te reflecteren op mijn eerste jaar bij het RPA team heb ik een aantal aspecten kunnen identificeren die ik belangrijk vind om terug te laten komen in mijn tweedejaars functie. Deze worden hieronder kort benoemd:
+
+- **Samenwerking**: Vanwege het individualistische karakter van de RPA projecten was er weinig ruimte voor samenwerking. Ik krijg energie van samenwerken en wil daarom in mijn vervolgfunctie zorgen dat samenwerken een groter onderdeel van het werk vormt.
+- **Technische uitdaging**: RPA is een relatief nieuw en klein vakgebied en beperkt zich tot de mogelijkheden van de NS infrastructuur waardoor er weinig ruimte was om nieuwe dingen uit te proberen. Omdat ik mezelf technisch wil blijven ontwikkelen, wil ik in mijn volgende functie minder afhankelijk zijn van één specifieke tool en de vrijheid hebben om nieuwe technologieën te kunnen exploreren.
+- **Tastbaarheid van producten**: Als RPA'er was ik  bedrijfsprocessen aan het automatiseren voor NS bedrijfsonderdelen. Ik voelde hierdoor dat de afstand tot de reiziger groot was. Ik wil  mijn vervolgfunctie wil ik dichter bij de reiziger staan.
+
+Met deze aandachtspunten in mijn achterhoofd ben ik op zoek gegaan naar mijn tweedejaars functie.
+
+# Door naar het tweede jaar: Data Scientist bij SCUBA {#sec-tweede-jaar-bij-scuba}
+
+In mijn tweede jaar van het traineeship ben ik overgestapt naar team SCUBA, een Advanced Analytics-team binnen de afdeling Data, Innovatie en Analyse (DIA), waar ik als data scientist werk aan voorspelmodellen voor onder andere de OV-fiets. Ik had voor team SCUBA gekozen omdat het een volwassen team is met veel kennis en ervaring waar ik van hoopte te leren. Bovendien richt SCUBA zich niet op één product, wat mij de kans geeft om mij breder te ontwikkelen als data scientist.
+
+<!-- - Om te reflecteren op mijn ontwikkelen is het belangrijk om terug te kijken op de leerdoelen die ik voor mezelf gesteld had. Door de beperkte ruimte van dit verslag heb ik mijn volledige ontwikkelplan verplaatst naar de Bijlagen (@sec-ontwikkelplan-jaar-2), en geef ik hieronder een korte samenvatting. -->
+<!-- - Mijn eerste leerdoel is om mijn inhoudelijke kennis in het data science gebied te vergroten. Aangezien het een tijd geleden is dat ik met data en voorspelmodellen gewerkt heb is het allereerste belangrijk om de basisbeginsel weer te verversen.  -->
+
+## Mijn reis door SCUBA: een aantal hoogtepunten uitgelicht
+
+<!-- Zet dit om naar een mooie infographic met het spoor en een aantal stations. -->
+
+- [September 2022] Start bij SCUBA en inlezen de huidige projecten
+- [November 2022] Bijwonen van meerdere conferencies: TechDays, PyData, NormConf, Communiceren van onzekerheid
+- [December 2022] Organiseren van de Hackathon SCUBA
+- [Januari 2023] Faciliteren workshop voor het identificeren van teamdoelen
+- [Januari 2023] Start business opdracht over kennisdeling in de AA gemeenschap
+- [Maart 2023] Meedoen aan de Kickstart AI challenge bij KLM
+- [April 2023] Organiseren AA samenwerkingsochtend rond het onderwerp kennisdeling
+- [Mei 2023] Starten met Udacity nanodegree: Deep Learning
+
+## Terugblik op het tweede jaar
+
+Om te kunnen reflecteren op mijn ontwikkeling is het goed om naar momenten te refereren waarin dit zichtbaar was. Als ik terugkijk op mijn eerste leerdoel, wat gaat over het verbeteren van mijn data science kennis, dan zijn er meerdere momenten die hierbij aan hebben bijgedragen. Allereerst heeft de kennis en ervaring van het team me enorm geholpen om snel aan de slag te kunnen en een goed beeld te krijgen wat data science allemaal inhoud en betekent binnen de NS. Doordat er binnen SCUBA weinig lagen zijn, en een van onze waardes transparantie en openheid is, kreeg ik van alle hoeken van het proces veel mee. Zo was ik bijvoorbeeld in de eerste weken van mijn start al betrokken bij een discussie over de invulling van de rol van data engineer in het team. Erg leerzaam om ook daar betrokken bij mogen te zijn.
+
+Daarnaast merkte ik dat het belangrijk was om mijn kennis rond de basisconcepten van statistiek en machine learning weer op te frissen. Om dit te bereiken ben ik op Udemy gestart met de cursus [Probability and Statistics for Business and Data Science](https://ns.udemy.com/course/probability-and-statistics-for-business-and-data-science/). Ook ben ik het boek [Naked Statistics](https://www.amazon.nl/Naked-Statistics-Stripping-Dread-Data/dp/039334777X) gaan lezen, waarin belangrijke statistische concepten op een luchtige manier worden uitgelegd met behulp van vele voorbeelden. Beide bronnen hebben mij geholpen en helpen nog steeds om voldoende kennis te krijgen over de basisbegrippen die belangrijk zijn bij het maken van voorspelmodellen.
+
+Een ander belangrijk leermoment was mijn deelname aan de Kickstart AI challenge gehost door de KLM. [Kickstart AI](https://www.kickstartai.org/) is een samenwerkingsverband tussen NS, ING, Ahold Delhaize en KLM met als doel de adoptie van AI te versnellen door kennis met elkaar te delen. Het doel van de challenge bij KLM was om voedselverspilling tegen te gaan door beter in te schatten hoe veel passagiers er daadwerkelijk op een vlucht komen. Onze focus hierbij lag op intercontinentale vluchten. Samen met 9 andere data scientisen van de partnerbedrijven hebben we in drie weken tijd in een soort proeftuin het huidige model van de KLM weten te verslaan. Een mooie prestatie. Daarnaast was het voor mij erg leerzaam om te zien hoe data science bij andere grote Nederlandse bedrijven eraan toe gaat en heb ik mijn netwerk kunnen vergroten. Daarnaast heb ik mezelf uitgedaagd om de eindpresentatie te geven van het project aan onder andere oud CEO van NS Marjan Rintel. Een spannend moment maar iets waar ik positief op terugkijk. 
+
+<!-- Als feedback van een NS collega kreeg ik terug dat ik soms wat snel er doorheen ging, iets waarschijnlijk te maken kon hebben met de zenuwen. Daarnaast kreeg ik als tip dat het ooit goed kan zijn om een grapje tussendoor te maken om het wat luchtiger te maken.  -->
+
+Om mijn data science kennis verder te vergroten ga ik dit jaar nog een aantal andere activiteiten ondernemen. Allereerst ga ik starten met de [Udacity Nanodegree Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101). Deze training geeft mij een goede basis om deep learning modellen in te kunnen gaan zetten. Daarnaast wil ik het STAP budget inzetten (helaas is dit de vorige keer nog niet gelukt) om een [tweedaagse training over tijdreeks voorspelmodellen](https://godatadriven.academy/training/practical-time-series-analysis-forecasting-training/) te volgen. Aangezien we binnen SCUBA veel te maken hebben met tijdreeks data hoop ik dat deze cursus me nieuwe inzichten geeft om de huidige voorspelmodellen te verbeteren. Als laatste wil ik dit jaar het [Microsoft Azure certificaat  Data Scientist Associate](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) binnenhalen. Dit geeft mij de bevestiging dat ik een sterke basis heb gecreeërd om een betere data scientist te worden.
+
+Een ander leerdoel in mijn tweede jaar was om breder beeld te krijgen van de verschillende Advanced Analytics teams die bij NS actief zijn. Om dit te bereiken heb ik deelgenomen aan de samenwerkingsochtenden die vanuit de AA techleads georganiseerd worden. Bovendien ben ik aangehaakt bij de JDT community dagen die eenmaals per maand plaatsvinden. Op deze manier heb ik breder inzicht gekregen in de verschillende teams die er zijn en mijn netwerk weten te vergroten. 
+<!-- 
+Ook vind het belangrijk om mijn persoonlijk te blijven ontwikkelen. Als data scientist is het belangrijk om resultaten duidelijk te kunnen communiceren naar belanghebbenden. Aangezien ik van nature wat meer een introvert persoon ben vind ik het op onbekend terrein vaak lastig om goed naar buiten te treden. Tijdens de droomfabriek en in sessies met mijn coach heb ik geprobeerd om te achterhalen waar dit vandaan komt. Het  -->
+
+Een van mijn persoonlijke leerdoelen was het beter kunnen beheersen van mijn perfectionisme. Dit leerdoel heb ik ook tijdens de Droomfabriek sessies besproken en bij mijn coach. Een tip die ik vanuit de Droomfabriek kreeg was om te onderzoeken waar dit gedrag vandaan kwam. Op deze manier kan ik erachter komen wat mijn beweegredenen zijn voor dit gedrag en het gerichter aanpakken. Ik heb dit daarom bespreekbaar gemaakt tijdens de coachsessies en Droomfabriek dagen. Om mijn perfectionisme beter te kunnen beheersen heb ik meerdere experimenten opgezet. Ik heb bijvoorbeeld geëxperimenteerd om emails maximaal 2 keer over te lezen voordat ik het verstuur. Een ander experiment is het timeboxen van activiteiten. Op deze manier verklein ik het risico dat ik onnodig veel tijd besteed aan het finetunen van detail in bijvoorbeeld een email.
+
+Als laatste heb ik bij SCUBA veel ervaring opgedaan met projectmatig werken. Omdat het geen productteam is, heb ik aan meerdere projecten kunnen werken. Zo hebben we bijvoorbeeld voor NS Techniek een project gedaan waarbij we hebben bepaald waar en wanneer graffiti-incidenten hebben plaatsgevonden om de beveiligers gerichter te kunnen inzetten. Daarnaast werken we aan twee projecten voor OV-fiets. Het eerste project, afgekort naar OFA, richt zich op het bouwen van een model om de beschikbaarheid van OV-fietsen 48 uur vooruit te kunnen voorspellen. Het tweede project, afgekort naar OFP, richt zich meer op de lange termijn en wordt vooral gebruikt voor strategische en tactische doeleinden. Hier proberen we vragen te beantwoorden als: hoeveel fietsen hebben we nodig op verhuurlocatie X in 2030? Het is voor mij erg leerzaam om bij meerdere projecten betrokken te zijn en de verschillen te ontdekken om beter te kunnen bepalen waar mijn voorkeur naar uitgaat. Het OFP-project is bijvoorbeeld meer onderzoekend van aard voor data-gedreven besluitvorming, terwijl het OFA-project zich meer vormt naar een product.
+
+<!-- De reden van mijn perfectionisme is vaak dat ik niet voldoende vertrouwen in mezelf heb. Doordat ik dit vertrouwen mis kan ik vaak erg lang piekeren over kleine details zoals de zinsvolgorde of woordkeuze in een bepaalde email. Ik denk zelf dat dit gedrag komt doordat ik een tweeling ben en altijd wordt vergleken met mijn tweeling broer. Iedereen vergelijkt mijn prestaties altijd met die van mijn broer maar ook al lijken we op elkaar, zijn we niet dezelfde personen. Doordat ik altijd beter wilde doen dan hem, heb ik wellicht een lichte vorm van perfectionisme ontwikkeld. Om hiermee om te gaan heb ik een aantal experimenten opgezet. -->
+<!-- 
+Experimenten om mijn perfectionisme beter te beheersen:
+
+- Een email maximaal 2 keer overlezen
+- Timeboxing: een tijdslimiet geven aan een bepaalde activiteit. Bijvoorbeeld aan het schrijven van een email, of het maken van een PR. -->
+
+<!-- Feedback vanuit collega's bij RPA: gevoel dat je de vervelende taakjes voor je uit schuift. Aangezien ik mezelf hier vaker op betrap heb ik ook hier mee geexperimenteerd. Zo had ik in een boek gelezen over de 5-seconde regel: je telt af van vijf naar één en als je bij één komt, doe je wat je moet doen. Door dit toe te passen in mijn werk krijgt mijn innerlijke stem niet de kans om de actie te voorkomen of uit te stellen. Dit is iets kleins maar heeft mij zeker geholpen om de dingen die moeten gebeuren niet onnodig lang uit te stellen.  -->
+
+
+<!-- ### Vakinhoudelijke ontwikkeling
+
+Ontwikkelmomenten:
+
+- Kickstart AI challenge: een samenwerking tussen NS, KLM, ING en Ahold Delhaize om AI te stimuleren en samen te werken aan maatschappelijk relevante onderwerpen. Hierbij heb ik veel geleerd over hoe andere grote Nederlandse bedrijven omgaan met data science en heb ik mijn netwerk vergroot (OD5). Een van de lessen die ik hieruit heb gehaald is hoe anderen omgaan met de schaalbaarheid van data teams. Ook heb ik tijdens de challenge geoefend met OD4 door het geven van de eindpresentatie aan diverse stakeholders: zowel technisch als niet technisch.
+- Organiseren samenwerkingsochtend AA: zorgen voor meer verbinding in de gemeenschap en het vergroten van mijn netwerk.
+- Bijwonen van conferenties zoals PyData, communiceren van onzerkerheid, de TechDays, en NormConf. Dit om nieuwe ontwikkelingen in het vakgebied te volgen.
+- Bezig om het boek [Naked Statistics](https://www.amazon.nl/Naked-Statistics-Stripping-Dread-Data/dp/039334777X) lezen om de basisbeginselen van statistiek te herhalen. Het boek probeert met veel voorbeelden om een simpele manier basisbegrippen van statistiek uit te leggen.
+- Bezig om het Microsoft certificaat Azure Data Scientist Associate te halen
+- Ga beginnen met een Udacity cursus om meer te leren over deep learning
+
+### Persoonlijke ontwikkeling
+
+Welke soft-skills heb ik ontwikkeld?
+
+- Communicatievaardigheden door te oefenen om complexe materie in simpele woorden te vertalen:
+  - Tijdens de Kickstart AI week
+  - Stakeholderssessies in het OV-fiets project
+  - Samenwerkingsochtend AA
+- Kritisch denken: het vermogen om kritisch te denken en te evalueren is essentieel voor het maken van betrouwbare conclusies op basis van data. 
+- Leren van collega Data Experts:
+  - Aansluiten bij JDT community dagen
+  - Deelnemen aan AA samenwerkingsochtenden -->
+
+
+
+<!-- # Andere stations {#sec-andere-stations} -->
+
+<!-- Voeg hier een foto collage toe om terug te kijken op alle andere activiteiten die ik ondernomen heb. -->
+
+<!-- Naast de twee functies die ik tijdens mijn traineeship heb ervaren zijn er nog veel meer andere leermomenten geweest. Allereerst alle activiteiten vanuit het traineeship. Denk hierbij aan de IT vakmodules, droomfabriek en intervisiemomenten. Hoe deze activiteiten hebben bijgedragen aan mijn ontwikkeling lees je hieronder.
+
+- Vakmodules om de IT bij NS breed te leren kennen
+- Droomfabriek gericht op persoonlijk leiderschap
+- Kijkjes in de keuken:
+  - Mee op de trein met een Hoofd Conductrice (HC)
+  - Meelopen met een monteur van onderhoudsbedrijf Leidschedam
+  - Op bezoek bij treinmodernisering in Haarlem
+  - Kijkje bij het OCCR
+  - Meelopen met een UX'er
+  - BuitenkaNS: reizigers van de huishoudsbeurs begeleiden -->
+
+# Vooruitkijken: hoe nu verder {#sec-vooruitkijken}
+
+<!-- Beschrijf hier mijn ambities en hoe ik wil doorgroeien bij NS.-->
+
+Ter afronding van dit portfolio wil ik afsluiten door kort vooruit te blikken op mijn toekomst bij NS. 
+
+Gedurende de afgelopen twee jaar bij NS heb ik geleerd wat er voor mij nodig is om in mijn kracht te komen. Allereerst ben ik erachter gekomen dat ik het belangrijk vind om actief samen te kunnen werken. Het samen resultaat halen geeft mij energie en is iets wat voldoende terug moet komen in mijn werk. Bovendien denk ik dat intensief samenwerken mij helpt om veel te kunnen leren van mijn collega's. Dit is iets wat ik uit mijn eerste jaar heb gehaald en wat ook beschreven is in @sec-tussenstation. 
+Waar ik tijdens mijn tweede jaar achter ben gekomen is dat ik het fijn vindt om verantwoordelijkheid te hebben. In mijn eerste jaar had ik de volledige verantwoordelijkheid over mijn projecten en ik vond dat prettig werken. In mijn vervolgfunctie is het daarom goed om dit op te blijven zoeken.
+Als derde vind ik inhoudelijke uitdaging belangrijk. In mijn eerste jaar merkte ik bijvoorbeeld dat ik mezelf richting het einde van het eerste jaar technisch onvoldoende verder kon ontwikkelen. Dit kwam onder andere omdat we afhankelijk waren van één tool en er weinig flexibiliteit was om verder te kijken. Dit in tegendeel tot mijn tweede jaar bij SCUBA waar enorm veel technologisch ontwikkelingen te ontdekken zijn.
+Als laatste heb ik geleerd dat ik het belangrijk vind om te werken aan tastbare producten die dicht bij de reiziger staan. Door in het eerste jaar vooral gewerkt te hebben voor bedrijfsorganisaties van NS voelde dit afstandig tot de reiziger. In mijn tweede jaar stond de reiziger een stuk dichter bij door te werken aan OV-fiets voorspelmodellen. Dit tastbare karakter geeft mij energie en vind ik een belangrijk element om mee te nemen naar mijn toekomst.
+
+Dit in achtnemende en het feit dat ik erg tevreden ben binnen mijn huidige rol bij SCUBA, is mijn ambitie om inhoudelijk door te groeien tot ervaren Data Scientist. Het is een complex vakgebied dat continue in beweging is waar ik nog lang niet ben uitgeleerd. Daarnaast wil ik op lange termijn ook steeds meer een eigen data visie ontwikkelen om daarmee een beeld te krijgen wat voor mij een data-gedreven organisatie betekent. Mijn verre ambitie zou zijn om zelf een eigen data product van begin te eind op te kunnen zetten en te managen. Het lijkt me tof om een eigen product te hebben, en dit steeds verder uit te bouwen met stakeholders.
+
+{{< pagebreak >}}
+
+# Bijlagen
+
+## RPA Certificaten
+
+![Certificaat voor het behalen van de UiPath cursus: RPA Starter](images/UiPath_Certificate_RPA_Starter.pdf){width=60%}
+
+![Certificaat voor het behalen van de UiPath cursus: Developer Advanced](images/UiPath_Certificate_Developer_Advanced.pdf){width=60%}
+
+## Ontwikkelplan jaar 1 {#sec-ontwikkelplan-jaar-1}
+
+Hieronder mijn ontwikkelplan voor het eerste jaar:
 
 Ontwikkeldoelen (OD):
 
-- OD1: Breed het IT landschap binnen de NS-organisatie leren kennen.
-  - Motivatie: Als beginnend professional denk ik dat het belangrijk is om meer inzicht te krijgen in huidige IT landschap. Dit betekent dat ik wil weten wat de verschillende functies en rollen inhouden en hoe deze in relatie met elkaar staan in de IT organisatie. Op deze manier hoop ik sneller de juiste mensen in de organisatie te kunnen vinden en te ontdekken waar mijn kracht ligt.
-- OD2: Zichtbaarheid vergroten in onbekende situaties.
-  - Motivatie: Tijdens de eerste maanden bij NS heb ik ondekt dat ik het lastig vind om mezelf goed te positioneren in situaties waar ik zelf weinig kennis van heb. Met dit ontwikkeldoel wil ik uitzoeken waar deze beweging vandaan komt om uiteindelijk mezelf beter te kunnen positioneren.
+- OD1: Kennis op het gebied van procesautomatisering vergroten.
+  - Motivatie: Om een goede RPA ontwikkelaar te worden is het belangrijk om meer kennis op de doen van de hele keten van procesautomatisering. Dit betekent dus zowel procesanalyse als het ontwikkelen van robots. Ook is het belangrijk om breder inzicht te krijgen in automatiseringtools die beschikbaar zijn in de markt om de business hier goed in te kunnen adviseren (denk bijvoorbeeld aan [PowerAutomate](https://powerautomate.microsoft.com/nl-nl/)).
+- OD2: Breed het IT landschap binnen de NS-organisatie leren kennen.
+  - Motivatie: Als beginnend professional vind ik het belangrijk om meer inzicht te krijgen in het huidige IT landschap. Dit betekent dat ik wil weten wat de verschillende functies en rollen inhouden en hoe deze in relatie met elkaar staan in de IT organisatie. Op deze manier hoop ik sneller de juiste mensen in de organisatie te kunnen vinden en te ontdekken waar mijn interesse en kracht ligt.
+- OD3: Zichtbaarheid vergroten in onbekende situaties.
+  - Motivatie: Tijdens de eerste maanden bij NS heb ik ondekt dat ik het lastig vind om mezelf goed te positioneren in situaties waar ik zelf weinig kennis van heb. Met dit ontwikkeldoel wil ik onderzoeken waar deze beweging vandaan komt om uiteindelijk mezelf beter te kunnen positioneren.
 
 Resultaatdoelen (RD):
 
@@ -57,101 +223,29 @@ Resultaatdoelen (RD):
 - RD3: Eigen netwerk binnen NS inzetten om een RPA project te identificeren.
   - Motivatie: Door RPA actief te promoten binnen mijn trainee netwerk wil ik een eigen RPA project binnenhalen. 
 
-## Reflectie op vakinhoudelijke ontwikkeling
+## Ontwikkelplan jaar 2 {#sec-ontwikkelplan-jaar-2}
 
-Als RPA ontwikkelaar was ik verantwoordelijk voor het **automatiseren van tijdrovende, repeterende computergestuurde bedrijfsprocessen** die veelal handmatig worden uitgevoerd door collega's. 
-
-- Nabootsen van menselijke handelingen
-- Focus terugleggen op de kerntaken
-
-Projecten onder mijn verantwoordelijkheid:
-
-- Traxx protocollen automatisch archiveren
-- Geautomatiseerd brieven toevoegen aan het personeelsdossier
-- Documenten uit twee oude SAP systemen archiveren
-
-Met alle projecten samen heb ik NS een geschatte besparing van XX euro opgeleverd!
-
-Maar...
-
-![Mijn persoonlijke RPA canvas](images/rpa_personal_canvas.pdf)
-
-## Wat heb geleerd tijdens mijn eerste jaar
-
-- Breed de NS-organisatie leren kennen
-    - Met verschillende bedrijfsonderdelen samengewerkt: MBN, HR, NS techniek, Staven
-    - Koffie drinken met IT experts uit verschillen hoeken
-    - Business opdracht bij de Julia's
-    - Kijkjes in de keuken: treinmodernisering, onderhoudsbedrijf Leidschedam, hoofdconductrice, OCCR, winkelmanager Kiosk, en rondleiding op Utrecht Centraal
-- Specialistische kennis op het gebied van automatisering en procesanalyse verbeteren
-    - Twee online trainingen gevolgd
-    - Promoten van RPA binnen NS door workshop en aanwezigheid op de innovatieweek en clustermarkt
-    - Procesmodellerings technieken
-    - Verbreden door te kijken naar andere tools zoals PowerAutomate
-- Projectmanagement vaardigheden verbeteren
-    - Experimenteren met stakeholdermanagement door volledige verantwoordelijkheid
-
-## Wat ontbrak er in de functie?
-
-- Het samen resultaat halen
-
-# Het tussenstation: een korte reflectie
-
-# Door naar het tweede jaar: Data Scientist bij SCUBA
-
-In het tweede jaar van mijn traineeship heb ik de overstap gemaakt naar team SCUBA, een Advanced Analytics team binnen de afdeling Data, Innovatie en Analyse (DIA). 
-
-## Ontwikkelplan voor het tweede jaar
-
-In het tweede jaar wilde ik mezelf vooral ontwikkelen als data scientist. Hiervoor heb ik het volgende ontwikkelplan opgesteld.
+In het tweede jaar wil ik mezelf doorontwikkelen naar **Data Expert C**. Hiervoor heb ik het volgende ontwikkelplan opgesteld.
 
 Ontwikkeldoelen (OD):
 
 - OD1: Kennis over de basisconcepten van machine learning vergroten.
-  - Motivatie: Het is als data scientist belangrijk om de basisbeginselen goed te begrijpen. Aangezien ik in mijn eerste jaar hier niet mee gewerkt heb is het goed om deze weer eens te herhalen.
+  - Motivatie: Het is als data scientist belangrijk om de basisbeginselen goed te begrijpen. Aangezien ik in mijn eerste jaar hier niet mee gewerkt heb is het goed om deze weer eens te herhalen. Denk hierbij bijvoorbeeld aan statisische concepten of theorie over kansberekeningen.
 - OD2: Programmeervaardigheden met Python verbeteren.
-  - Motivatie: Om effectief te kunnen werken als data scientist is het belangrijk om te beschikken over sterke programmeervaardigheden. Binnen SCUBA wordt voornamelijk Python gebruikt en dus is het doel om op deze taal te focussen. Dit betekent dat ik sterker wil worden in het schrijven van efficiente en leesbare Python code en om kan gaan met de meest bekende packages die binnen het vakgebied gebruikt worden zoals Pandas, Numpy, en Scikit-learn.
+  - Motivatie: Om effectief te kunnen werken als data scientist is het belangrijk om te beschikken over sterke programmeervaardigheden. Binnen SCUBA wordt voornamelijk Python gebruikt en dus is het doel om op deze programmeertaal te focussen. Dit betekent dat ik sterker wil worden in het schrijven van efficiente en leesbare Python code en bekend ben met populaire packages die binnen het vakgebied gebruikt worden zoals Pandas, Numpy, en Scikit-learn.
 - OD3: Kennis op het gebied van deep learning vergroten.
   - Motivatie: Om onze modellen te verbeteren zouden we kunnen experimenteren met meer geavanceerde neurale netwerken. Om dit toe te kunnen passen is het belangrijk om de basisprincipes van deep learning te begrijpen.
-- OD4: Meer samen optrekken met andere Data Experts binnen de AA gemeenschap.
-  - Motivatie: Dit om (1) breder inzicht te krijgen in de toepassingen die door NS ontwikkeld worden, (2) van andere data experts te leren, en (3) mijn netwerk uit te bereiden.
+- OD4: Complexe concepten en resultaten op een duidelijke en begrijpelijke manier kunnen communiceren aan zowel technische als niet-technische stakeholders. 
+  - Motivatie: Ik vind het belangrijk om de complexe materie duidelijk te kunnen communiceren aan stakeholders. Aangezien ik dit als feedback terugkreeg van een van mijn collega's vind ik het belangrijk om hier meer aandacht aan te besteden.
 
 Resultaatdoelen (RD):
 
 - RD1: Een van de samenwerkingsochtenden organiseren om breder mezelf sterker te positioneren binnen de gemeenschap.
   - Motivatie: De samenwerkingsochtenden is een initiatief van de tech leads om eens in de vier weken met de AA gemeenschap bij elkaar te komen om elkaar beter te leren kennen en kennis te delen. Door een van de ochtenden te hosten kan ik mijn zichtbaarheid binnen AA vergroten.
-- RD2: Verantwoordelijkheid in het team vergroten.
-  - Motivatie: Ik merk dat ik in mijn kracht wordt gezet wanneer ik meer verantwoordelijkheid heb. Aangezien veel in teamverband wordt gedaan komt dat minder terug in mijn huidige functie. Door dit terug te vinden denk ik dat ik mezelf beter kan ontwikkelen.
 
 Leerfocus: 
 
 - Intensief samenwerken.
-- Verantwoordelijkheid hebben.
-
-## Data Scientist
-
-Als data scientist bij SCUBA help ik NS, en specifiek het domein NS stations, een data-gedreven organisatie te maken. 
-
-Meegewerkt aan twee producten:
-
-- OV-fiets beschikbaarheid voorspellingen 48 uur vooruit: wat is de kans dat er een fiets beschikbaar is?
-- Wat is de behoefte van OV-fiets 20 tot 30 jaar vooruitkijkend?
-
-Ontwikkelmomenten:
-
-- Kickstart AI challenge: een samenwerking tussen NS, KLM, ING en Ahold Delhaize om AI te stimuleren en samen te werken aan maatschappelijk relevante onderwerpen.
-- Organiseren samenwerkingsochtend AA: zorgen voor meer verbinding in de gemeenschap.
-
-# Andere stations
-
-Naast de twee functies die ik tijdens mijn traineeship heb ervaren zijn er nog veel meer andere leermomenten geweest. Allereerst alle activiteiten vanuit het traineeship. Denk hierbij aan de IT vakmodules, droomfabriek en intervisiemomenten. Hoe deze activiteiten hebben bijgedragen aan mijn ontwikkeling lees je hieronder.
-
-
-## BuitenkaNS: reizigers van de huishoudsbeurs begeleiden
-
-# Vooruitkijken: hoe nu verder
-
-# Bijlagen
 
 ## Feedback
 
@@ -275,6 +369,18 @@ Zelfstandigheid in je werkzaamheden.’
 
 ‘Lars doet exact wat hem gevraagd wordt binnen de opgegeven tijd en geeft het aan mocht dit niet lukken, een heel goed punt in een werknemer. Flexibel in meedenken met andere oplossingen.’
 
+### Feedback van Expertise Lead Alie de Jong
+
+‘Ik ken je als een zeer attente en oprecht geïnteresseerde medewerker die goed kan luisteren en dit ook goed kan vertalen in werkoplossingen. Je bent leergierig, nieuwsgierig
+en technisch zeer sterk. Afgelopen jaar heb je je in zeer snel tempo ontwikkeld tot een medior RPA-ontwikkelaar. Zeker in het begin kwam je over als een stille kracht die veel werk verzette, maar dat 'stille' heb je gedurende het jaar van je af geschut. Je bent iemand die graag eerst zaken (zeker als ze nieuw zijn) wil begrijpen en pas daarna geeft je je mening. Ook al heb je nog niet je hele mening gevormd weet je al genoeg om de verwonderende vragen te stellen om de ander aan het denken te zetten, probeer dat eens
+uit
+
+Soms was er onduidelijkheid over de opdracht. Tip hierbij is spreek het goed af en leg het vast in bijvoorbeeld een mail. De RPA-klussen waren in eerste instantie vrij solistisch, Je hebt zelf het  initiatief genomen om ook een opdracht samen op te pakken met goed resultaat.
+
+Een van de ontwikkelpunten was het spreken voor groepen. Ook daar heb je goede ontwikkelingen doorgemaakt. De eindpresentatie voor de groepsopdracht in het trainee programma ging goed en rustig waarbij je soepel de vragen van de beoordelingscommissie beantwoorde. Als ik naar het gespreksformulier kijk dan zijn alle resultaatafspraken gehaald en de ontwikkelafspraken hebben bijgedragen aan een mooie ontwikkeling zowel op persoonlijk vlak als het verkrijgen van meer kennis en inzicht in het landschap van NS.
+
+Ik vind dat je je het afgelopen jaar uitstekend hebt ontwikkeld en zie nog veel perspectief bij jou. Ik wens je veel succes in je tweede trainee-jaar en natuurlijk in je verdere loopbaan.’
+
 ### Feedback op de eerste 5 maanden bij SCUBA
 
 #### Wouter Hordijk - Data Scientist en Product Owner
@@ -365,6 +471,26 @@ Een punt voor reflectie: pragmatisch en snel werken heeft een valkuil. Binnen da
 **Heb je nog andere opmerkingen of tips voor mij?**
 
 ‘​Ik vind dat je een mooie bijdrage levert aan SCUBA! Je bent een fijne collega en aanwinst voor ons team!’
+
+#### Branka Milivojevic - Data Scientist & Scum Master
+
+**Waar zit naar jouw idee mijn kracht?**
+
+‘Lars, you are a real pleasure to have in the team. You are very process focused and you are always happy to lend a hand with both project and non-project work. You are not afraid to take on new challenges and give it a go even when you have never done something similar before.
+
+One concrete example is that you were right away willing to help with the preparations for the heidag in January. You did some research on types of activities, gave good feedback during preparations, ran one activity yourself, and participated fully in the day. When things didn't run smoothly (because they never do!), you took it in stride and made the most of it. 
+
+This illustrates your general attitude and I have seen you approach different types of tasks with the same enthusiasm and drive.’
+
+**Waar zie je ruimte voor ontwikkeling, wat zou je me graag (meer of anders) zien doen bij SCUBA?**
+
+‘Like I said above, you are very enthusiastic and quick to step up to take on new challenges. While this is a great characteristic, for more complex problems it can be useful to consider the issue from multiple perspectives before carrying on. Having said that, this is something that comes with experience and you are well on your way to building this up!’
+
+**Heb je nog andere opmerkingen of tips voor mij?**
+
+‘Sorry about being so late with this - I don't think I saw it on SuccessFactors.
+
+I really enjoy working with you Lars! I am so glad you joined our team and I hope that SCUBA can keep you on after the end of your traineeship. It would be a real shame to lose your talent and can-do attitude!’
 
 ### Algemene feedback
 

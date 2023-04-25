@@ -50,7 +50,7 @@ Het eerste jaar in mijn traineeship ben ik begonnen als ontwikkelaar in het RPA 
 
 ## Terugblik op het eerste jaar
 
-Allereerst ben ik begonnen om mijn kennis op het gebied van procesautomatisering te vergroten. Aangezien ik geen ervaring had met procesautomatiseringstools, vond ik het belangrijk om te beginnen met twee cursussen van UiPath. Ik heb de RPA Starter-cursus gevolgd en nadat ik deze had afgerond, ben ik begonnen met de Advanced Developer-cursus. In de [bijlagen](#RPA-Certificaten) van dit portfolio kun je de certificaten vinden die ik heb behaald voor deze cursussen. Naast het volgen van de cursussen heb ik veel hulp gevraagd aan collega's met ervaring en ben ik vanaf het begin betrokken geweest bij gesprekken met stakeholders over mogelijke nieuwe projecten. Dit heeft mij geholpen te leren hoe mijn collega's dit aanpakken.
+Allereerst ben ik begonnen om mijn kennis op het gebied van procesautomatisering te vergroten. Aangezien ik geen ervaring had met procesautomatiseringstools, vond ik het belangrijk om te beginnen met twee cursussen van UiPath. Ik heb de RPA Starter-cursus gevolgd en nadat ik deze had afgerond, ben ik begonnen met de Advanced Developer-cursus. In de bijlagen (@sec-bijlagen) van dit portfolio kun je de certificaten vinden die ik heb behaald voor deze cursussen. Naast het volgen van de cursussen heb ik veel hulp gevraagd aan collega's met ervaring en ben ik vanaf het begin betrokken geweest bij gesprekken met stakeholders over mogelijke nieuwe projecten. Dit heeft mij geholpen te leren hoe mijn collega's dit aanpakken.
 
 Wat verder heeft geholpen bij mijn ontwikkeling was de kans om al binnen een maand mijn eigen project op te pakken. Dit project was voor de afdeling NS Techniek en betrof de geautomatiseerde archivering van TRAXX-protocollen. Hoewel het automatiseren van dit proces relatief eenvoudig was, gaf het me de mogelijkheid om in een vroeg stadium te ontdekken wat er nodig is om een proces volledig te automatiseren. Hierdoor heb ik niet alleen geleerd hoe ik een "robot" kan ontwikkelen, maar ook hoe ik het proces kan analyseren, documenteren, testen en implementeren. Daarnaast heb ik ervaring opgedaan met projectmatig werken en geleerd hoe ik tussenresultaten begrijpelijk kan communiceren aan niet-technische belanghebbenden.
 
@@ -193,7 +193,7 @@ Dit in achtnemende en het feit dat ik erg tevreden ben binnen mijn huidige rol b
 
 {{< pagebreak >}}
 
-# Bijlagen
+# Bijlagen {#sec-bijlagen}
 
 ## RPA Certificaten
 
